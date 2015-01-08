@@ -7,4 +7,4 @@
 4. For running mixing gradients, open the folder "Mixing_gradients" and run script "editing_script_RGB.m"
 
 ####### Reference  
-Pérez, Patrick, Michel Gangnet, and Andrew Blake. "Poisson image editing." ACM Transactions on Graphics (TOG). Vol. 22. No. 3. ACM, 2003.
+1. *Pérez, Patrick, Michel Gangnet, and Andrew Blake. "Poisson image editing." ACM Transactions on Graphics (TOG). Vol. 22. No. 3. ACM, 2003.
