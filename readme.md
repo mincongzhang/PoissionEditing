@@ -1,3 +1,11 @@
+#Poission Editing
+
+###Importing gradients
+<img src="https://github.com/mincongzhang/PoissionEditing/raw/master/ImportingGrad.bmp" width="600" align="middle"/>
+
+###Mixing gradients
+<img src="https://github.com/mincongzhang/PoissionEditing/raw/master/MixingGrad.bmp" width="600" align="middle"/>
+
 1.  Script "RegionR.m" performs the method to "Remove the selected region R and fill it in using the Equation (2) in the paper". This script is adapted from the function of importing gradient because there is no big difference between them.
 
 2. For testing and fast calculation, I write a script for importing gradients in rectangle region. Just run the "editing_script.m" in folder "Importing_gradients_rectangle_region"
