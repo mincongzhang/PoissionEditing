@@ -1,7 +1,7 @@
 #Poission Editing
 
 ###Importing gradients
-<img src="https://github.com/mincongzhang/PoissionEditing/raw/master/ImportingGrad.bmp" width="600" align="middle"/>
+<img src="https://github.com/mincongzhang/PoissionEditing/raw/master/ImportGrad.bmp" width="600" align="middle"/>
 
 ###Mixing gradients
 <img src="https://github.com/mincongzhang/PoissionEditing/raw/master/MixingGrad.bmp" width="600" align="middle"/>
